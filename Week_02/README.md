@@ -1,12 +1,11 @@
 ### 一、哈希表、映射、集合  
-** 哈希表（key-value：**增删查改O(1)、最坏是O(n)  
+哈希表（key-value）：增删查改O(1)、最坏是O(n)  
 ```set_x ={‘jack’, selina ’, ‘Andy'} ```  
 ```set_y = set([‘jack’, selina ’, ‘jack'])```  
-** Map：**key-value对，key不重复  
-** Set：**单个value，不重复元素的集合
-
+Map：key-value对，key不重复  
+Set：单个value，不重复元素的集合  
 ### 二、堆和二叉树、二叉搜索树  
-** 二叉树的遍历：**前序（根左右）、中序（左根右）、后序（左右根）O(logn)  
+二叉树的遍历：**前序（根左右）、中序（左根右）、后序（左右根）O(logn)  
 
     def preorder(self, root):
         if root:  
@@ -26,7 +25,7 @@
             self.postorder(root.right)  
             self.traverse_path.append(root.val)
   
-** 二叉搜素树：**左子树上所有结点的值均小于它的根结点的值；右子树上所有结点的值均大于它的根结点的值；
+二叉搜素树：左子树上所有结点的值均小于它的根结点的值；右子树上所有结点的值均大于它的根结点的值；
  
 ### 三、堆和二叉堆
 1.堆：分为大顶堆（大根堆）——根节点最大的堆，小顶堆（小根堆）——根节点最小的堆。  O(logn)  
