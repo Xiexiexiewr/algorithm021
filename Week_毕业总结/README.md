@@ -1,14 +1,14 @@
 ## 毕业总结总结
 #### 数据结构：  
 • 一维：   
-    • 基础：数组 array (string), 链表 linked list  
-    • 高级：栈 stack（括号匹配问题，直方图最大面积，水槽盛水）, 队列 queue（滑动窗口，优先队列，堆）, 双端队列 deque, 集合 set——hash set/tree set（判断元素是否有重复）, 映射 map (hash or map), etc  
+	• 基础：数组 array (string), 链表 linked list  
+	• 高级：栈 stack（括号匹配问题，直方图最大面积，水槽盛水）, 队列 queue（滑动窗口，优先队列，堆）, 双端队列 deque, 集合 set——hash set/tree set（判断元素是否有重复）, 映射 map (hash or map), etc  
 • 二维：  
-    • 基础：！树 tree（BFS/DFS，爬楼梯，硬币兑换）, 图 graph  
-    • 高级：二叉搜索树 binary search tree (red-black tree, AVL，B树，B+树), 堆 heap（大顶堆，小顶堆——用数组模拟）, 并查集 disjoint set, 字典树 Trie, etc  
+	• 基础：！树 tree（BFS/DFS，爬楼梯，硬币兑换）, 图 graph  
+	• 高级：二叉搜索树 binary search tree (red-black tree, AVL，B树，B+树), 堆 heap（大顶堆，小顶堆——用数组模拟）, 并查集 disjoint set, 字典树 Trie, etc  
 • 特殊：  
-    • 位运算 Bitwise（用来判重——遍历、递归，n皇后，数独）, 布隆过滤器 BloomFilter  
-    • LRU Cache  
+	• 位运算 Bitwise（用来判重——遍历、递归，n皇后，数独）, 布隆过滤器 BloomFilter  
+	• LRU Cache  
       
 #### 算法：  
 ！• If-else, switch —> branch     分支  
